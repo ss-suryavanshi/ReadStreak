@@ -1,0 +1,6 @@
+{
+  "name": "Read Streak",
+  "description": "Build a reading habit with daily streak tracking, consistency grid, and widget previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
